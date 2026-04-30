@@ -1,0 +1,8 @@
+study-agent/
+├─ app.py
+├─ requirements.txt
+├─ README.md
+├─ .gitignore
+├─ inputs/
+│  └─ sample.txt
+└─ output/
